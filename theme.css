@@ -1,0 +1,92 @@
+.searchbar {
+backdrop-filter: blur(4px) saturate(180%) !important;
+    -webkit-backdrop-filter: blur(4px) saturate(180%) !important;
+            background-color: rgba(207, 207, 209, 0.75) !important;
+    border-radius: 12px;
+         border: 1px solid rgba(255, 255, 255, 0.125) !important;
+}
+
+#ImageButton1 {
+display: none !important;
+}
+
+#Beta {
+backdrop-filter: blur(4px) saturate(180%) !important;
+    -webkit-backdrop-filter: blur(4px) saturate(180%) !important;
+            background-color: rgba(207, 207, 209, 0.75) !important;
+    border-radius: 12px;
+         border: 1px solid rgba(255, 255, 255, 0.125) !important;
+        padding-top: 7px !important;
+      font-weight: bolder;
+}
+
+.menu {
+backdrop-filter: blur(4px) saturate(180%) !important;
+    -webkit-backdrop-filter: blur(4px) saturate(180%) !important;
+            background-color: rgba(207, 207, 209, 0.75) !important;
+    border-radius: 12px;
+         border: 1px solid rgba(255, 255, 255, 0.125) !important;
+        padding-top: 3px !important;
+      font-weight: bolder;
+      color: #4c4c4c !important;
+}
+
+#autocomplete-list {
+backdrop-filter: blur(4px) saturate(180%) !important;
+    -webkit-backdrop-filter: blur(4px) saturate(180%) !important;
+            background-color: rgba(207, 207, 209, 0.75) !important;
+    border-radius: 12px;
+         border: 1px solid rgba(255, 255, 255, 0.125) !important;
+}
+
+#autocomplete-list li:hover {
+background-color: none !important;
+border-right: 1px solid #5c5c5c !important;
+translation: 0.5s !important;
+}
+
+.offcanvas {
+backdrop-filter: blur(4px) saturate(180%) !important;
+    -webkit-backdrop-filter: blur(4px) saturate(180%) !important;
+            background-color: rgba(207, 207, 209, 0.75) !important;
+    border-radius: 12px;
+         border: 1px solid rgba(255, 255, 255, 0.125) !important;
+}
+
+.offcanvas .btn-outline-success {
+backdrop-filter: blur(4px) saturate(180%) !important;
+    -webkit-backdrop-filter: blur(4px) saturate(180%) !important;
+            background-color: rgba(207, 207, 209, 0.75) !important;
+    border-radius: 12px;
+         border: 1px solid rgba(255, 255, 255, 0.125) !important;
+        padding-top: 3px !important;
+      font-weight: bolder;
+      color: #4c4c4c !important;
+}
+
+.form-select {
+backdrop-filter: blur(4px) saturate(180%) !important;
+    -webkit-backdrop-filter: blur(4px) saturate(180%) !important;
+            background-color: rgba(207, 207, 209, 0.75) !important;
+    border-radius: 12px;
+         border: 1px solid rgba(255, 255, 255, 0.125) !important;
+        padding-top: 3px !important;
+      font-weight: bolder;
+      color: #4c4c4c !important;
+}
+
+.offcanvas #Label7, #Label8, #Label0, #Label9 {
+      color: #4c4c4c !important;
+}
+
+.fontlu{
+margin-bottom: 13px !important;
+}
+
+#manifest {
+text-align:center !important;
+}
+
+#beta_text {
+      color: #4c4c4c !important;
+}
